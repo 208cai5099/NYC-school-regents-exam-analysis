@@ -11,9 +11,10 @@ In this analysis, I explore the performances of New York City (NYC) public schoo
 *  SWD students tend to perform worse than non-SWD students on the Regents exams.
 *  ELL students tend to perform worse than their peers, while former ELL students tend to outperform everyone else.
 
-## How to Run Notebook on Google Colab:
+## How to Visualize the Data on Google Colab:
 
-You can download the notebook and upload it to Google Colab. You will need the following three files to run the entire notebook. The first file is the data source, while the remaining two files help correct the names of misspelled schools.
+The interactive data visuals in the notebook are not displayed on GitHub. You can run the notebook on Google Colab to see the interactive visuals. You need to upload the notebook to Google Colab. You also need the following three files to run the entire notebook. 
+The first file is the data source, while the remaining two files help correct the names of misspelled schools.
 
 *   2015_to_2023_regents_data.xlsx
 *   new_names.txt
