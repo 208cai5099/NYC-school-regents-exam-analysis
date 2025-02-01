@@ -4,7 +4,7 @@ The New York State (NYS) Regents exams are assessments that test public school s
 
 In this analysis, I explore the performances of New York City (NYC) public schools on the Regents exams. The analysis starts with an overview of the performance of NYC schools, then it delves more into the differences in performance by English Language Learner (ELL) status and Students with Disability (SWD) status. The time period covered in this analysis is from 2017 to 2023 (excluding 2020 and 2021 due to COVID's impact on the exam administration). The goal is to identify interesting insights into the academic performance of students in the NYC public school system.
 
-Here are the nain findings:
+Here are the main findings:
 
 *  The city's performance on the exams in English, math, science, and social studies are medicore.
 *  SWD students tend to perform worse than non-SWD students on the Regents exams.
