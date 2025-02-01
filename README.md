@@ -5,6 +5,16 @@ The New York State (NYS) Regents exams are assessments that test public school s
 
 In this analysis, I explore the performances of New York City (NYC) public schools on the Regents exams. The analysis starts with an overview of the performance of NYC schools, then it delves more into the differences in performance by English Language Learner (ELL) status and Students with Disability (SWD) status. The time period covered in this analysis is from 2017 to 2023 (excluding 2020 and 2021 due to COVID's impact on the exam administration). The goal is to identify interesting insights into the academic performance of students in the NYC public school system.
 
+The analysis is done using interactive visuals. See below for instructions on how to see the visuals on Google Colab.
+
+This plot shows the distribution of Mean Scores on the Common Core English exam from 2017 to 2019. See notebook for details.
+
+![Example 1](https://github.com/user-attachments/assets/7c19b3df-5daa-4297-83eb-8c8e11dc5377)
+
+This plot shows the distribution of Mean Scores from students with disabilities and students without disabilities on the Common Core English exam from 2017 to 2023 (excluding 2020 and 2021). See notebook for details.
+
+![Example 2](https://github.com/user-attachments/assets/8046b78c-6341-4f1b-a11c-6854d7eda59d)
+
 ## Main Findings
 
 *  The city's performance on the exams in English, math, science, and social studies are medicore.
